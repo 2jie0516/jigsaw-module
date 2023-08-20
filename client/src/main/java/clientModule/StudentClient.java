@@ -1,8 +1,8 @@
-package main.java.clientModule;
+package clientModule;
 
-import main.java.dbModule.DbService;
-import main.java.modelModule.Student;
-import main.java.serviceModule.StudentService;
+import dbModule.DbService;
+import modelModule.Student;
+import serviceModule.StudentService;
 
 public class StudentClient {
     public static void main(String[] args) {
