@@ -1,4 +1,4 @@
-package modelModule;
+package main.java.modelModule;
 
 public class Student {
     private String registrationId;

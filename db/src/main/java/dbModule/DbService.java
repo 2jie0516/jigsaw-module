@@ -1,7 +1,7 @@
-package dbModule;
+package main.java.dbModule;
 
-import modelModule.Student;
-import serviceModule.StudentService;
+import main.java.modelModule.Student;
+import main.java.serviceModule.StudentService;
 
 public class DbService implements StudentService {
 

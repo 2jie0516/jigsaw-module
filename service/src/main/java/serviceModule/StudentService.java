@@ -1,6 +1,6 @@
-package serviceModule;
+package main.java.serviceModule;
 
-import modelModule.Student;
+import main.java.modelModule.Student;
 
 public interface StudentService {
     public String create(Student student);
